@@ -2,7 +2,7 @@
 The squirm program is effectively a 'mouse jiggler'. This program will keep Teams green.
 
 ## Further Development Plans
-This is a simple, but functional, prototype. I have big plans for squirm, baby. Eventually there will be the ability to record mouse movement macros and replay them. Also I plan to make a GUI as well.
+This is a simple, but functional, prototype. I have big plans for squirm, baby. Eventually there will be the ability to record mouse movement macros and replay them. Also I plan to make a GUI.
 
 ## How to use:
 ```
